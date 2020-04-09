@@ -32,3 +32,5 @@ _ReSharper*/
 packages/
 /PlanetEscape/Library/**
 /PlanetEscape/Temp/**
+/PlanetEscape/Assembly-CSharp.csproj
+/PlanetEscape/PlanetEscape.sln
